@@ -1,6 +1,5 @@
 from math import  *
-#Nombre: Ricardo Balducci.
-#Cedula: 28.308.177
+#Deivith Zanella 28.564.281
 
 def f(x):
     return e**x-3*x**2 #  sin(x) - e**-x 

@@ -1,6 +1,5 @@
 from math import * #Importamos la librería de math
-#Nombre: Ricardo Balducci.
-#Cedula: 28.308.177
+#Deivith Zanella 28.564.281
 def biseccion(f,a,b,tol,ni):
 	#Variables
 	Error_a = 100 #Error aproximado relativo.
