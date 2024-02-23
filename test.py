@@ -4,7 +4,7 @@ import newton_raphson
 import Integracion_numerica
 import ecuaciones_diferenciales
 from math import *
-
+#Deivith Zanella 28.564.281
 '''Funcion'''
 def f(x):
     return sqrt(x+1)
