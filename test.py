@@ -2,7 +2,8 @@ import unittest
 import biseccion
 import newton_raphson
 import Integracion_numerica
-import ecuaciones_diferenciales
+'''import ecuaciones_diferenciales'''
+#Documento el metodo de ecuaciones diferenciale, ya que no se pidio para la evaluacion.
 from math import *
 #Deivith Zanella 28.564.281
 '''Funcion'''
@@ -50,10 +51,10 @@ class test_integracion_numerica(unittest.TestCase):
         n = 5   # numero de participaciones
         self.assertEqual(Integracion_numerica.suma_riemann(f, a, b, n),1.5548955608445105)
 
-class test_ecucacion_diferenciales(unittest.TestCase):
+'''class test_ecucacion_diferenciales(unittest.TestCase):
     def test_metodo_euler(self):  
         pass
-
+'''
        
  
 if __name__ == "__main__":

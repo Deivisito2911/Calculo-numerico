@@ -1,4 +1,6 @@
-from math import  *
+'''from math import  *
+Aca yo ya habia buscado como hacer el metodo de euler, pero como dijo que no se iba
+a necesitar lo documento solamente
 #Deivith Zanella 28.564.281
 
 def f(t, y):
@@ -27,4 +29,4 @@ if __name__ == '__main__':
     h = 0.25
     n = 5
     resultados_t, resultados_y = metodo_euler(f, t0, y0, h, n)
-    print('\nfin')
+    print('\nfin') '''
